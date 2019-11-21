@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/solmazsm/weather.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/solmazsm/weather.git/static/js/main.a40ca40c.chunk.js",
+    "main.js.map": "/solmazsm/weather.git/static/js/main.a40ca40c.chunk.js.map",
+    "runtime-main.js": "/solmazsm/weather.git/static/js/runtime-main.43579a4a.js",
+    "runtime-main.js.map": "/solmazsm/weather.git/static/js/runtime-main.43579a4a.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/solmazsm/weather.git/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.aae16fa0.chunk.js": "/solmazsm/weather.git/static/js/2.aae16fa0.chunk.js",
+    "static/js/2.aae16fa0.chunk.js.map": "/solmazsm/weather.git/static/js/2.aae16fa0.chunk.js.map",
+    "index.html": "/solmazsm/weather.git/index.html",
+    "precache-manifest.4dc699cb5a20de67f7c28bc3ad0dc74a.js": "/solmazsm/weather.git/precache-manifest.4dc699cb5a20de67f7c28bc3ad0dc74a.js",
+    "service-worker.js": "/solmazsm/weather.git/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/solmazsm/weather.git/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/solmazsm/weather.git/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43579a4a.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.aae16fa0.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a40ca40c.chunk.js"
+  ]
+}
